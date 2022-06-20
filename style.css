@@ -13,3 +13,8 @@ img{
 h6{
     text-align: center;
 }
+a{
+    position:absolute;
+    top:50%;
+    left:46%;
+}
